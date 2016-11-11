@@ -1,0 +1,20 @@
+.gp-wrapper {
+    padding: 2em 0;
+}
+
+.gp-wrapper table {
+    margin-top: 1em;
+}
+
+.gp-wrapper table thead tr {
+    color: #fff;
+    background: dodgerblue;
+}
+
+.gp-wrapper .table-responsive {
+    border: none;
+}
+
+.gp-wrapper button {
+    margin-top: .5em;
+}

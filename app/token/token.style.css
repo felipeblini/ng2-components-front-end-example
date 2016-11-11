@@ -1,0 +1,17 @@
+.token-wrapper .row {
+    padding: 1.7em;
+}
+
+.token-wrapper .token-info > div {
+    margin-bottom: .8em;
+}
+
+.token-wrapper .xs-margin-top {    
+    margin-top: .8em;
+}   
+
+@media (min-width: 767px) {
+    .token-wrapper .xs-margin-top {
+        margin-top: 0;
+    }   
+}
